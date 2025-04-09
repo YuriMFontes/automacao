@@ -31,7 +31,10 @@ def escolher_santorini():
     pyautogui.doubleClick()
     time.sleep(2)
     pyautogui.doubleClick()
-    
+    time.sleep(2)
+    pyautogui.click()
+    #Mexer manualmente para baixo
+    time.sleep(10)
 
 
 

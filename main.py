@@ -3,6 +3,7 @@ import time
 from vestidos.santorini import escolher_santorini
 #from vestidos.noronha import escolher_noronha  # se quiser ativar
 
+
 print("Automação vai começar em 3 segundos...")
 time.sleep(3)
 
